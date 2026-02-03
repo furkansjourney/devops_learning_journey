@@ -14,4 +14,5 @@ chmod
 whoami
 groups
 id
-
+sudo
+chown
