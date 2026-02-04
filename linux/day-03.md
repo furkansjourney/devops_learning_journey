@@ -1,20 +1,12 @@
-# Day 03 – Processes & Background Jobs
+## Day 03 – File Viewing & Log Basics
 
-## 🎯 What I Did
-- Learned what a process is in Linux
-- Viewed running processes
-- Managed foreground and background jobs
+Today I practiced basic Linux file viewing and log inspection commands:
 
----
+- `cat`, `head`, `tail`
+- `more` vs `less`
+- `tail -f` for live log monitoring
+- `grep` for filtering errors
+- Using pipes (`|`) to combine commands
 
-## 📘 Commands Practiced
-```bash
-ps
-ps aux
-top
-htop
-jobs
-bg
-fg
-kill
+Focused on hands-on terminal practice and real-life log reading scenarios.
 
