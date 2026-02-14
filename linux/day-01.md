@@ -17,4 +17,6 @@ mkdir
 touch
 rm
 rmdir
-
+cp
+mv
+tree
